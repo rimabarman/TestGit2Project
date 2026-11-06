@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">connectorAccount</value>
+  <value name="node_subtype">streamingAccount</value>
+  <value name="node_nsName">project.testgit2.streaming.connections:EmbeddedMessaging</value>
+  <value name="node_pkg">TestGit2Project</value>
+  <value name="is_public">false</value>
+  <value name="assetId">TestGit2Project.project.testgit2.streaming.connections:EmbeddedMessaging</value>
+  <value name="connectionName">EmbeddedMessaging</value>
+  <value name="description">This is the default embedded messaging account</value>
+  <value name="providerURI">nhp://stage00-prod979566-um-0.int-prod979566.svc.cluster.local:9000/</value>
+  <value name="clientId">EMd035239fd1d14b0d89f7bc438f011cb0</value>
+  <value name="securityProtocol"></value>
+  <value name="keystoreAlias"></value>
+  <value name="keystoreKeyAlias"></value>
+  <value name="truststoreAlias"></value>
+  <value name="additionalProperties"></value>
+  <record name="node_hints" javaclass="com.wm.util.Values">
+    <value name="createdBy">Gen-SIQA-Test@ibm.com</value>
+    <value name="modifiedBy">Gen-SIQA-Test@ibm.com</value>
+    <value name="createdDate">2026-11-06T07:28:52.235488327Z</value>
+    <value name="lastModifiedDate">2026-11-06T07:28:52.235488327Z</value>
+  </record>
+</Values>
