@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: TestGit2Project
+  gitServerName: PivotGitHub
+  gitUrl: https://github.com/rimabarman
+  gitUsername: rimabarman
+  gitBranch: main
