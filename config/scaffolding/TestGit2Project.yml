@@ -7,3 +7,16 @@ packages:
   gitUrl: https://github.com/rimabarman
   gitUsername: rimabarman
   gitBranch: main
+services:
+- serviceName: project.testgit2.integrations:TestDate
+  packages:
+  - name: TestGit2Project
+    version: "1.0"
+- serviceName: pub.date:currentNanoTime
+  packages:
+  - name: WmPublic
+    version: 12.1.0.0.1227
+- serviceName: project.testgit2.streaming.connections:EmbeddedMessaging
+  packages:
+  - name: TestGit2Project
+    version: "1.0"
